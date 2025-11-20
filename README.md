@@ -16,8 +16,8 @@ This project was created as part of a professional QA portfolio and follows indu
 ### Author
 Mohammad Zihad Hasan <br>
 QA Engineer | Manual & Automation Tester <br>
-GitHub: (https://github.com/zihadcse23) <br>
-LinkedIn: (https://www.linkedin.com/in/zihadcse23iu/)
+GitHub: https://github.com/zihadcse23 <br>
+LinkedIn: https://www.linkedin.com/in/zihadcse23iu/
 
 ### Test Coverage Summary
 | Area                        | Coverage    |
@@ -55,7 +55,7 @@ All test cases are structured with:
 ### Tools & Technologies Used
 - Browser: Chrome, Firefox
 - Project Type: Manual Testing
-- Documentation: Excel / Google Sheets
+- Documentation: Google Docs & Sheets
 - Bug Tracking: Standard QA Bug Report Format
 - Testing Techniques:Black Box Testing, Functional & UI Testing, Error Handling Test, Negative Testing, Scalability Observation.
 
